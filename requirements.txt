@@ -7,5 +7,3 @@ requests
 python-dateutil
 pytz
 tzlocal
-# Note: We kept the Pro data libraries but removed the broken Alpaca/Stripe
-# versions until you add those specific API keys, to prevent crashes.
