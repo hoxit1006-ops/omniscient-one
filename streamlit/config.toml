@@ -13,7 +13,6 @@ enableXsrfProtection = true
 maxUploadSize = 200
 
 [browser]
-serverAddress = "localhost"
 gatherUsageStats = false
 
 [runner]
